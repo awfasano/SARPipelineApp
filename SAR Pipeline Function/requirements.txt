@@ -1,0 +1,5 @@
+numpy==1.23.5
+pandas==2.0.3
+requests==2.31.0
+psycopg2-binary==2.9.6
+functions-framework==3.*

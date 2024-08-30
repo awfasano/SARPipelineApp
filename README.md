@@ -225,4 +225,4 @@
 
 <h2>Acknowledgments</h2>
 
-<p>Special thanks to the teams at the World Bank for their continuous support and contributions to this project.</p>
+<p>thanks to the teams at the World Bank for their continuous support and contributions to this project.</p>

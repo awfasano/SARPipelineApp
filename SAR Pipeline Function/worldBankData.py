@@ -6,11 +6,11 @@ import worldBankAPI
 import prosperityAPI
 
 # Database connection details
-DB_USER = 'awfasano'
-DB_PASSWORD = 'football3'
-DB_NAME = 'scorecard'
-DB_HOST = '34.162.122.101'
-DB_PORT = '5432'
+DB_USER = '********'
+DB_PASSWORD = '********'
+DB_NAME = '********'
+DB_HOST = '********''
+DB_PORT = '********'
 
 # Function to fetch indicators from the database
 def get_indicators_from_db():
